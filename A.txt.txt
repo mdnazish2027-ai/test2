@@ -1,6 +1,14 @@
+<<<<<<< Updated upstream
 
 ############Error#######
 Fixed it
+=======
+Feature 1
+//Some login code with OTP
+//100%
+############Stored temp
+
+>>>>>>> Stashed changes
 Ooty
 bangalore
 welcome
